@@ -251,10 +251,9 @@
   font-size: 20px;
   font-weight: 400;
   font-style: normal;
-  text-decoration: underline;
-  text-transform: lowercase;
   margin-top: 30px;
   padding-left: 40px;
+  text-transform: lowercase;
   text-decoration: underline;
   text-decoration-color: #000;
   text-decoration-thickness: 1px;
