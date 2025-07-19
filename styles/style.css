@@ -347,9 +347,6 @@
   flex-direction: column;
 }
 
-.footer__menu-list-item {
-}
-
 .footer__menu-link {
   text-transform: lowercase;
   text-decoration: none;
@@ -367,9 +364,6 @@
   margin: 0;
   justify-self: end;
   align-self: start;
-}
-
-.footer__social-list-item {
 }
 
 .footer__social-link {
